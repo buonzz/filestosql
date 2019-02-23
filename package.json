@@ -1,7 +1,7 @@
 {
   "name": "filestosql",
   "version": "1.0.0",
-  "description": "",
+  "description": "Recursively Crawl files in a folder and generate SQL script to easily load the file list to a  MySQL database",
   "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
